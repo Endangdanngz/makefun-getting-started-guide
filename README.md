@@ -137,6 +137,37 @@ verified human signups your link brought in. The rules that keep it fair:
   disqualified. Share your link where real humans will actually use it.
 - Rewards are reviewed before they can be claimed, so referral earnings arrive more slowly than bounty prizes.
 
+## What a first entry looks like, hour by hour
+
+Abstract steps are easier to trust with a concrete example, so here is a realistic first run at a small,
+free-to-enter bounty with many paid places:
+
+- **Hour 0** — You read the bounty page twice. The task is clear, the pot pays 50 places, entries close in three
+  days. You download the kit and read `RULES.txt` with a coffee.
+- **Hour 1** — Account, GitHub link and wallet link are done. You create the public repository, add the MIT
+  licence, and start a fresh session with your agent inside it.
+- **Hours 2–4** — You and the agent build the entry in that session, testing as you go. The agent writes the
+  files; you steer, read its summaries, and make the judgement calls.
+- **Hour 5** — The kit's local check passes. You bundle the transcripts and submit. Ten minutes later the status
+  reads **checked** — the entry is in.
+- **Result day** — The results post. Maybe you placed and claim a few USDC; maybe you did not. Either way you now
+  know the entire loop, and the next bounty starts from experience instead of from this page.
+
+That is the honest shape of it: one focused afternoon for the mechanics, then the real game — picking bounties
+that suit you and building entries that grade well — begins.
+
+## Quick answers
+
+**Do I need to be a programmer?** You need to steer one. Your agent writes the code; your job is choosing the
+bounty, reading the rules carefully, checking what the agent produced, and submitting on time. People who read
+requirements closely beat people who code fast and skip them.
+
+**Can I enter the same bounty more than once?** Yes, within its daily submission limit — and because the last
+entry before the deadline is the one that counts, re-entering is how you fix mistakes and improvements.
+
+**Where do I ask for help?** The make.fun Discord and the bounty page's own discussion are the fastest routes;
+other entrants have usually hit the same check failure you are staring at.
+
 ## A one-page checklist
 
 - [ ] Account created, GitHub linked, Solana wallet linked
